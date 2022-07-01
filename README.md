@@ -1,2 +1,2 @@
 # odin-recipes
-Recipes project following the odin project curently going to be purly HTML code, css will be added later
+Recipes project following the odin project mostly HTML code with a slight bit of css so it doesn't look completely plain.
