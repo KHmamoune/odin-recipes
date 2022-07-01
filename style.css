@@ -1,0 +1,33 @@
+html {
+    background-color:#242929;
+    color: white;
+    font-size: large;
+}
+
+.image {
+    width: 50vh;
+    height: 70vh;
+}
+
+.image2 {
+    width: 50vh;
+    height: 50vh;
+}
+
+a:link {
+    color: silver;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:visited {
+    color: gold;
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
